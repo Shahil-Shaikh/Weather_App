@@ -1,0 +1,19 @@
+PRIMARY FEATURES
+    Temperature
+    Weather (a cool animated icon of current weather)
+    hourly and 10 days forecast
+    search weather by location
+
+SECONDARY FEATURES
+    wind
+    visibility
+    UV index
+    humidity
+
+
+EXTRA FEATURES
+    cool animation of current weather in the background
+
+clean and professional look
+
+
